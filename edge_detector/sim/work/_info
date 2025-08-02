@@ -1,0 +1,131 @@
+m255
+K4
+z2
+Z0 !s12c _opt1
+Z1 !s99 nomlopt
+R0
+R1
+Z2 !s12c _opt
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+!s11f vlog 2023.3 2023.07, Jul 17 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z3 d/ictc/student_data/quangtrung/08_ss8/counter_hw/sim
+T_opt
+!s110 1750262230
+VT][k2J;j^?EzoaG2?noOD2
+Z4 04 10 4 work test_bench fast 0
+=1-bc2411fb702e-6852e1d4-ab823-2715bf
+R1
+Z5 !s12b OEM100
+Z6 !s124 OEM10U2 
+Z7 o-quiet -auto_acc_if_foreign -work work -debugdb +acc
+Z8 tCvgOpt 0
+n@_opt
+Z9 OL;O;2023.3;77
+R3
+T_opt1
+!s110 1750264798
+V5RSY:2mNLo0liYz]Y:W@j1
+R4
+=1-bc2411fb702e-6852ebdd-c6ebf-297048
+R1
+R5
+R6
+R7
+R8
+n@_opt1
+R9
+vcounter
+2../rtl/counter.v|../tb/test_bench.v
+!s110 1750262219
+!i10b 1
+!s100 Bm7C8HU_IiY8]0kAA?cNI2
+IA[2k62M<5lEC_04n4EBLM2
+R3
+w1750262191
+8../rtl/counter.v
+F../rtl/counter.v
+!i122 12
+L0 1 41
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+Z11 OL;L;2023.3;77
+r1
+!s85 0
+31
+!s108 1750262219.000000
+!s107 ../tb/test_bench.v|../rtl/counter.v|
+Z12 !s90 -f|compile.f|
+!i113 0
+Z13 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R8
+vedge_detector
+Z14 2../rtl/edge_detector.v|../tb/test_bench.v
+Z15 !s110 1750264787
+!i10b 1
+!s100 LbnehQZX8DaXla<8F?Eij2
+IY=8l0U83Ez3X_JnFWnMQ22
+Z16 d/ictc/student_data/quangtrung/08_ss8/edge_detector/sim
+w1750263215
+8../rtl/edge_detector.v
+F../rtl/edge_detector.v
+!i122 15
+L0 1 20
+R10
+R11
+r1
+!s85 0
+31
+Z17 !s108 1750264787.000000
+Z18 !s107 ../tb/test_bench.v|../rtl/edge_detector.v|
+R12
+!i113 0
+R13
+R8
+vtest_bench
+R14
+R15
+!i10b 1
+!s100 b_F6J0cC>HSA?jO9IL1LQ3
+IPmCX=nG47Qk0?j>I85Mg@0
+R16
+w1750264772
+8../tb/test_bench.v
+F../tb/test_bench.v
+!i122 15
+L0 4 49
+R10
+R11
+r1
+!s85 0
+31
+R17
+R18
+R12
+!i113 0
+R13
+R8
